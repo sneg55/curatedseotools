@@ -39,6 +39,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * http://urlprofiler.com - Urlprofiler - A powerful tool for SEOs to quickly audit links
 
 ** Competitor Analysis **
+* http://analyzeid.com - Analyze ID - Find other websites owned by the same person. Uses Adsense, Google Analytics & more as digital finger prints to track the same owner.
 * https://serpstat.com - Serpstat - All-in-One SEO platform for professionals
 * http://buzzsumo.com - Buzzsumo - Competitor Analysis|Content Marketing
 * https://www.semrush.com - Semrush -  Сompetitive Research and Business Intelligence Software
