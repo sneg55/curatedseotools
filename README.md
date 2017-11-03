@@ -84,6 +84,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * http://sentineliq.com - Sentineliq.com - Automatically identifies keyword opportunities based on a proven set of ranking heuristics
 * http://keywordjudge.com - Keywordjudge.com - Online keyword research tool that lets you choose your own metrics to determine keyword difficulty.
 * https://www.keywordstudio.com,Keywordstudio.com - Theme-based Keyword Research Workspace for SEO Professionals
+* https://www.storybase.com/ - Storybase - Keyword variations and volumes together
 
 ## Local SEO Tools 
 
@@ -174,6 +175,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * https://www.adroll.com - Adroll.com - The retargeting and prospecting platform
 * http://www.pricingassistant.com/adwords-optimization,Pricingassistant.com - Automate your Google AdWords Shopping campaigns
 * https://www.adnabu.com - Adnabu.com - Creates profitable AdWords campaigns automatically for you with all best practices.
+* https://www.hull.io/ - Hull.io - Audience and segmentation management across all your ads, emails, CRM, tools, and databases
 
 ## Reporting Tools 
 * https://reportgarden.com,Reportgarden.com - Multi-Channel Reporting Platform for Agencies
