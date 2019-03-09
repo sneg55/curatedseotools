@@ -224,6 +224,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * https://buffer.com - Buffer.com - Social media management for marketers and agencies
 * https://amplifr.com/en - Amplifr.com - Scheduling, publishing and analytics on social media
 * https://hootsuite.com - Hootsuite - Manage all your social media marketing in one place
+* https://quicktwit.com - QuickTwit - Category Based Trends
 * http://sproutsocial.com - Sproutsocial - Social Media Management Made Easy
 * https://socialhub.io/en - Socialhub.io - Social Media Management Platform
 * http://klear.com - Klear.com - Social intelligence platform that helps brands do smarter marketing
