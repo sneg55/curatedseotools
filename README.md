@@ -244,6 +244,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * http://www.getmentia.com - Mentia - See what content will work best for you on social media.
 * https://sumall.com - Sumall.com - Social media reports will help you and your clients drive social media success.
 * https://swat.io - Swat.io - The Enterprise & Agency Solution for Content Planning, Community Management and Social Customer Service.
+* https://peakfeed.com/hemlock - peakfeed.com - Hemlock automatically aggregates all the stuff your competitors do online and lets you analyze and explore it through a simple, calendar interface. 
 
 ## Visitor Analytics 
 * https://www.google.com/analytics - Google Analytics - Google Analytics Solutions helps you turn customer insights into real gains.
