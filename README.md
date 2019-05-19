@@ -85,6 +85,7 @@ List of handpicked and time proven SEO tools by [curatedseotools.com](https://cu
 * http://keywordjudge.com - Keywordjudge.com - Online keyword research tool that lets you choose your own metrics to determine keyword difficulty.
 * https://www.keywordstudio.com,Keywordstudio.com - Theme-based Keyword Research Workspace for SEO Professionals
 * https://www.storybase.com/ - Storybase - Keyword variations and volumes together
+* https://www.keywordrevealer.com - Keyword Revealer - The Ultimate Keyword Research Tool. Pioneer of the keyword research tool sector.
 
 ## Local SEO Tools 
 
