@@ -7,8 +7,9 @@ metadescription: This is a curated list of best SEO Tools, handpicked and time p
 
 <header>
 <h1>Curated SEO Tools</h1>
+<p align="center">Best SEO Tools Stash: 257 awesome products right now.</p>
+
 </header>
-Best SEO Tools Stash: 257 awesome products right now.
 
 
 <section class="tiles">
