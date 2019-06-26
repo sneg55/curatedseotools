@@ -1,0 +1,21 @@
+#coming_soon {
+    box-shadow: 0px 0px 6px rgba(41, 41, 132, 0.12);
+    text-align: center;
+
+    h3 {
+        padding-top: 60px;
+        text-transform: none;
+        letter-spacing: 0;
+        color: #FF961C;
+        font-weight: 500;
+        font-family: Kanit;
+    }
+    button {
+        text-transform: none;
+        letter-spacing: 0;
+        border-radius: 0;
+    }
+    svg {
+        vertical-align: middle;
+    }
+}

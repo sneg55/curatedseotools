@@ -1,0 +1,185 @@
+header ~ p {
+    max-width: 34em;
+    margin: 0 auto 2em;
+}
+.post {
+    color: _color(main-color);
+    #wrapper {
+        position: relative;
+        &:before {
+            position: absolute;
+            content: '';
+            top: 20px;
+            left: 0;
+            width: 100%;
+            height: 627px;
+            background-image: url("/../../images/bg-fon.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            z-index: -1;
+        }
+        &:after {
+            position: absolute;
+            content: '';
+            bottom: 200px;
+            left: 0;
+            width: 100%;
+            height: 627px;
+            background-image: url("/../../images/bg-fon.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            z-index: -1;
+        }
+    }
+}
+.author {
+    &-block {
+        display: flex;
+        justify-content: center;
+        font-size: 18px;
+        margin-bottom: 4.5em;
+        font-weight: 400;
+        .name {
+            color: _color(purple-color);
+            margin-right: 5px;
+        }
+        .date {
+            color: #828282;
+        }
+    }
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border-top: 1px solid #F2F2F2;
+    padding: 25px 0;
+    margin-top: 2.5em;
+    &-wrap {
+        display: flex;
+        justify-content: space-between;
+        @include breakpoint(small) {
+            flex-wrap: wrap;
+        }
+    }
+    &-img {
+        width: 90px;
+        max-width: 100%;
+        flex: 1 0 auto;
+        margin-right: 30px;
+        img {
+            border-radius: 50%;
+        }
+        @include breakpoint(small) {
+            width: 60px;
+            margin-right: 15px;
+        }
+    }
+    &-about {
+        font-size: 16px;
+        width: 100%;
+        color: #333333;
+        margin-bottom: 20px;
+    }
+    &-info {
+        display: flex;
+        align-items: center;
+        margin: 0 1.5em 1.5em 0;
+        @include breakpoint(small) {
+            margin-right: 0;
+        }
+    }
+    &-title {
+        font-size: 24px;
+        color: _color(purple-color);
+    }
+    &-skills {
+        font-size: 14px;
+        color: #828282;
+    }
+    &-social {
+        display: flex;
+        .social-link {
+            width: 50px;
+            height: 50px;
+            background-color: _color(purple-color);
+            color: #fff;
+            margin: 0 5px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 30px;
+            transition: .3s;
+            &:hover {
+                background-color: _color(green-color);
+            }
+        }
+    }
+}
+.post {
+    h2, h3, h4, h5, h6 {
+		font-family: _add-font(second-family);
+		color: _color(main-color);
+		font-weight: _add-font(weight-medium);
+    }
+    h2 {
+		font-size: 2.5em;
+        margin-bottom: 1em;
+        @include breakpoint(small) {
+            font-size: 2em;
+            margin-bottom: 0.8em;
+        }
+	}
+
+	h3 {
+		font-size: 1.7em;
+        margin-bottom: 1.4em;
+        @include breakpoint(small) {
+            font-size: 1.4em
+        }
+	}
+
+	h4 {
+        font-size: 1.4em;
+        @include breakpoint(small) {
+            font-size: 1em
+        }
+	}
+
+	h5 {
+		font-size: 0.8em;
+	}
+
+	h6 {
+		font-size: 0.8em;
+	}
+    p {
+        font-size: 16px;
+        color: _color(main-color);
+    }
+    a {
+        font-weight: _add-font(weight-bold);
+    }
+}
+.author-block ~ p {
+    &:first-of-type {
+        font-weight: 600;
+        font-size: 20px;
+    }
+}
+.product-page {
+    h3 {
+        font-size: 1em;
+    }
+    #main a {
+        @include vendor('transition', (
+            'border #{_duration(transition)} ease'
+		));
+        text-decoration: none;
+        color: #585858;
+        border-bottom: dotted 1px rgba(88, 88, 88, 0.5);
+        
+        &:hover {
+            border-bottom-color: transparent;
+            color: _color(purple-color);
+        }
+    }
+}

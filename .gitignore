@@ -1,0 +1,9 @@
+*~
+.sass-cache
+_site/
+*.lock
+node_modules
+modify-pics-plugin
+.jekyll-metadata
+_posts/2019-04-01-post.md
+collections/_posts/2019-04-01-post.md
