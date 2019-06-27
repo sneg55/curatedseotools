@@ -15,31 +15,31 @@ All these search engine webmaster tools allow you to arm yourself with a very st
 Last but definitely not least, they can provide you with information on why your audience visits your site – thus, helping you understand how you can better focus and target your efforts in increasing your traffic. And you know what is the absolute best part of all that? These services are completely free. If you do not have a Webmaster account, you are missing BIG time.
 
 <article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2018/02/Keylogs_%E2%80%93_Better_Search_Console_Insights-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2018/02/Keylogs_%E2%80%93_Better_Search_Console_Insights-200x200.png" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://keylogs.io/?ref=curatedseotools.com" target="_blank class=">Keylogs</a></h2>
 Better Search Console Insights and Ranktracker
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/baidu-webmaster-tools-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/baidu-webmaster-tools-200x200.png" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://zhanzhang.baidu.com/?ref=curatedseotools.com" target="_blank class=">Baidu Webmaster Tools</a></h2>
 Baidu is a leading search engine in China with more than 75% of market share. <a href="http://www.webnots.com/baidu-webmaster-tools-in-english/" target="_blank" rel="noopener">Detailed English Guide for Baidu Webmaster Tools.</a>
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/yandex-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/yandex-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://webmaster.yandex.com/?ref=curatedseotools.com" target="_blank class=">Yandex Webmaster Tools</a></h2>
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/bing-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/bing-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://www.bing.com/toolbox/webmaster?ref=curatedseotools.com" target="_blank class=">Bing Webmaster Tools</a></h2>
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/google-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/google-webmaster-tools-200x200.jpg" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://www.google.com/webmasters?ref=curatedseotools.com" target="_blank class=">Google Webmaster Tools</a></h2>
 </div>

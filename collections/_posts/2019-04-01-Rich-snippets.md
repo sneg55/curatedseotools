@@ -13,19 +13,19 @@ A rich snippet is a whole other level than ordinary snippets. Extra information 
 
 They have higher CTR(click-through rate) than normal – in other words, you will get much more traffic due to them. This works even if your search engine position remains the same. So how do you get them? By adding structured data markup to your website. And how exactly do you learn how to do that? By going through our rich snippets tools list.
 <article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/introduction-to-structured-data-types-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/introduction-to-structured-data-types-200x200.jpg" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://developers.google.com/search/docs/data-types/data-type-selector?ref=curatedseotools.com" target="_blank class=">Introduction to Structured Data Types</a></h2>
 This reference section contains all the data types and their properties you’ll need in order to mark up your content for inclusion in rich Search results from Google.
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/google-structured-data-testing-tool-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/google-structured-data-testing-tool-200x200.png" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://search.google.com/structured-data/testing-tool?ref=curatedseotools.com" target="_blank class=">Google Structured Data Testing Tool</a></h2>
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="https://curatedseotools.com/wp-content/uploads/2016/12/json-ld-schema-generator-for-seo-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img class="attachment-post-thumbnail size-post-thumbnail wp-post-image" src="/wp-content/uploads/2016/12/json-ld-schema-generator-for-seo-200x200.jpg" alt="" width="200" height="200" /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://hallanalysis.com/json-ld-generator/?ref=curatedseotools.com" target="_blank class=">JSON-LD Schema Generator For SEO</a></h2>
 One of the easiest ways to add Schema’s structured markup to a page is to use JSON-LD. With this tool you can quickly generate the correct JSON-LD for any page on your site.
