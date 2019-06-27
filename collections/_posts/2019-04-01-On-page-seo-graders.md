@@ -24,21 +24,21 @@ Test any website
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/quicksprout-website-grader-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/quicksprout-website-grader-200x200.png"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://www.quicksprout.com/?ref=curatedseotools.com" target="_blank class=">Quicksprout Website Grader</a></h2>
 Easiest way for you to know what is happening on your website and how to improve your website to grow your traffic.
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/site-analyzer-com-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/site-analyzer-com-200x200.jpg"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://www.site-analyzer.com/?ref=curatedseotools.com" target="_blank class=">Site-analyzer.com</a></h2>
 Website review and SEO tools to help you Make the Web better.
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seoptimer-com-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seoptimer-com-200x200.jpg"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="http://www.seoptimer.com/?ref=curatedseotools.com" target="_blank class=">Seoptimer.com</a></h2>
 Quick And Simple SEO Audit Of Any Web Page
@@ -52,7 +52,7 @@ How strong is your website?
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seositecheckup-com-200x200.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-200x200.png 200w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-500x500.png 500w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-90x90.png 90w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com.png 585w" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seositecheckup-com-200x200.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-200x200.png 200w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-500x500.png 500w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-90x90.png 90w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com.png 585w"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="http://seositecheckup.com/?ref=curatedseotools.com" target="_blank class=">Seositecheckup.com</a></h2>
 User-friendly analysis and monitoring of your site’s SEO

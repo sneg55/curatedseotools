@@ -15,42 +15,42 @@ Whether you are currently using WordPress or you plan to do so is is extremely i
 
 Our list has EXCELLENT guides on WordPress SEO, for both beginners who just now starting to scratch the surface and dedicated experts who want to dive deep and get to top speed, guns out a shape. By the time you have gone through our extensive list of resources, you will be armed with all the knowledge and information necessary to turn ALL the switches that lead to WordPress SEO riches on.
 <article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/the-beginners-guide-to-wordpress-seo-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/the-beginners-guide-to-wordpress-seo-200x200.png"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://www.sitepoint.com/beginners-guide-to-wordpress-seo/?ref=curatedseotools.com" target="_blank class=">The Beginner’s Guide to WordPress SEO</a></h2>
 Guide by Aaron Gray
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/the-definitive-guide-to-higher-rankings-for-wordpress-sites-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/the-definitive-guide-to-higher-rankings-for-wordpress-sites-200x200.png"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://yoast.com/wordpress-seo/?ref=curatedseotools.com" target="_blank class=">The definitive guide to higher rankings for WordPress sites</a></h2>
 Guide by Joost de Valk(creator of Yoast SEO Plugin)
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/redirection-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/redirection-200x200.jpg"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://wordpress.org/plugins/redirection/?ref=curatedseotools.com" target="_blank class=">Redirection</a></h2>
 WordPress plugin to manage 301 redirections and keep track of 404 errors
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/wordpress-amp-200x200.png" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/wordpress-amp-200x200.png"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://wordpress.org/plugins/amp/?ref=curatedseotools.com" target="_blank class=">WordPress AMP</a></h2>
 Enable Accelerated Mobile Pages (AMP) on your WordPress site.
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/all-in-one-seo-pack-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/all-in-one-seo-pack-200x200.jpg"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://wordpress.org/plugins/all-in-one-seo-pack/?ref=curatedseotools.com" target="_blank class=">All in One SEO Pack</a></h2>
 Optimizes your WordPress blog for SEO
 
 </div>
 </article><article class="resource">
-<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/yoast-seo-200x200.jpg" alt="" width="200" height="200" /></div>
+<div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/yoast-seo-200x200.jpg"  /></div>
 <div class="resource__info">
 <h2 class="h2 category-title"><a href="https://wordpress.org/plugins/wordpress-seo/?ref=curatedseotools.com" target="_blank class=">Yoast SEO</a></h2>
 Improve your WordPress SEO: Write better content and have a fully optimized WordPress site
