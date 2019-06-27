@@ -16,47 +16,47 @@ Luckily for you, our list of local SEO tools comes to the rescue. We have compil
 <article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2017/01/placesscout-com-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.placesscout.com/?ref=curatedseotools.com" target="_blank class=">Placesscout.com</a></h2>
+<h2 ><a href="https://www.placesscout.com/?ref=curatedseotools.com" target="_blank class=">Placesscout.com</a></h2>
 Places Scout it’s an all-in-one solution that provides tools for keyword research, lead generation, rank tracking, business reputation monitoring for Local SEO.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/mypresences-com-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.mypresences.com/services/?ref=curatedseotools.com" target="_blank class=">Mypresences.com</a></h2>
+<h2 ><a href="https://www.mypresences.com/services/?ref=curatedseotools.com" target="_blank class=">Mypresences.com</a></h2>
 Advanced tool to help businesses discover and create presences on 1000+ online services and apps.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/google-my-business-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.google.com/business/?ref=curatedseotools.com" target="_blank class=">Google My Business</a></h2>
+<h2 ><a href="https://www.google.com/business/?ref=curatedseotools.com" target="_blank class=">Google My Business</a></h2>
 Get your business hours, phone number, and directions on Google Search and Maps
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/synup-com-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://synup.com/?ref=curatedseotools.com" target="_blank class=">Synup.com</a></h2>
+<h2 ><a href="https://synup.com/?ref=curatedseotools.com" target="_blank class=">Synup.com</a></h2>
 See How Your Business Is Doing on the most important local directories, search engines and review sites.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/localseochecklist-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="http://localseochecklist.org/?ref=curatedseotools.com" target="_blank class=">Localseochecklist</a></h2>
+<h2 ><a href="http://localseochecklist.org/?ref=curatedseotools.com" target="_blank class=">Localseochecklist</a></h2>
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/json-ld-schema-generator-for-seo-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://hallanalysis.com/json-ld-generator/?ref=curatedseotools.com" target="_blank class=">JSON-LD Schema Generator For SEO</a></h2>
+<h2 ><a href="https://hallanalysis.com/json-ld-generator/?ref=curatedseotools.com" target="_blank class=">JSON-LD Schema Generator For SEO</a></h2>
 One of the easiest ways to add Schema’s structured markup to a page is to use JSON-LD. With this tool you can quickly generate the correct JSON-LD for any page on your site.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/moz-local-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://moz.com/local?ref=curatedseotools.com" target="_blank class=">MOZ Local</a></h2>
+<h2 ><a href="https://moz.com/local?ref=curatedseotools.com" target="_blank class=">MOZ Local</a></h2>
 Moz Local ensures that your local business listings are correct, consistent, and visible across the web.
 
 </div>

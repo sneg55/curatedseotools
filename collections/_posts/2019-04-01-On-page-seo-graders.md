@@ -19,49 +19,49 @@ All in all, On-Page SEO Graders are no joke, and we HEAVILY encourage you to try
 <article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/Nibbler_-_Test_any_website.png" alt="" width="158" height="40" /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="http://nibbler.silktide.com/?ref=curatedseotools.com" target="_blank class=">Nibbler</a></h2>
+<h2 ><a href="http://nibbler.silktide.com/?ref=curatedseotools.com" target="_blank class=">Nibbler</a></h2>
 Test any website
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/quicksprout-website-grader-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.quicksprout.com/?ref=curatedseotools.com" target="_blank class=">Quicksprout Website Grader</a></h2>
+<h2 ><a href="https://www.quicksprout.com/?ref=curatedseotools.com" target="_blank class=">Quicksprout Website Grader</a></h2>
 Easiest way for you to know what is happening on your website and how to improve your website to grow your traffic.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/site-analyzer-com-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.site-analyzer.com/?ref=curatedseotools.com" target="_blank class=">Site-analyzer.com</a></h2>
+<h2 ><a href="https://www.site-analyzer.com/?ref=curatedseotools.com" target="_blank class=">Site-analyzer.com</a></h2>
 Website review and SEO tools to help you Make the Web better.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seoptimer-com-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="http://www.seoptimer.com/?ref=curatedseotools.com" target="_blank class=">Seoptimer.com</a></h2>
+<h2 ><a href="http://www.seoptimer.com/?ref=curatedseotools.com" target="_blank class=">Seoptimer.com</a></h2>
 Quick And Simple SEO Audit Of Any Web Page
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/Website_Grader-200x133.png" alt="" width="200" height="133" /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://website.grader.com/?ref=curatedseotools.com" target="_blank class=">HubSpot Website Grader</a></h2>
+<h2 ><a href="https://website.grader.com/?ref=curatedseotools.com" target="_blank class=">HubSpot Website Grader</a></h2>
 How strong is your website?
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/seositecheckup-com-200x200.png" sizes="(max-width: 200px) 100vw, 200px" srcset="https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-200x200.png 200w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-500x500.png 500w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com-90x90.png 90w, https://curatedseotools.com/wp-content/uploads/2016/12/seositecheckup-com.png 585w"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="http://seositecheckup.com/?ref=curatedseotools.com" target="_blank class=">Seositecheckup.com</a></h2>
+<h2 ><a href="http://seositecheckup.com/?ref=curatedseotools.com" target="_blank class=">Seositecheckup.com</a></h2>
 User-friendly analysis and monitoring of your site’s SEO
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/woorank-200x153.png" alt="" width="200" height="153" /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://www.woorank.com/?ref=curatedseotools.com" target="_blank class=">Woorank</a></h2>
+<h2 ><a href="https://www.woorank.com/?ref=curatedseotools.com" target="_blank class=">Woorank</a></h2>
 Instant Website Review
 
 </div>

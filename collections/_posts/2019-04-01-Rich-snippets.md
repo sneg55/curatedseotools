@@ -15,19 +15,19 @@ They have higher CTR(click-through rate) than normal – in other words, you wil
 <article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/introduction-to-structured-data-types-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://developers.google.com/search/docs/data-types/data-type-selector?ref=curatedseotools.com" target="_blank class=">Introduction to Structured Data Types</a></h2>
+<h2 ><a href="https://developers.google.com/search/docs/data-types/data-type-selector?ref=curatedseotools.com" target="_blank class=">Introduction to Structured Data Types</a></h2>
 This reference section contains all the data types and their properties you’ll need in order to mark up your content for inclusion in rich Search results from Google.
 
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/google-structured-data-testing-tool-200x200.png"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://search.google.com/structured-data/testing-tool?ref=curatedseotools.com" target="_blank class=">Google Structured Data Testing Tool</a></h2>
+<h2 ><a href="https://search.google.com/structured-data/testing-tool?ref=curatedseotools.com" target="_blank class=">Google Structured Data Testing Tool</a></h2>
 </div>
 </article><article class="resource">
 <div class="resource__thumb"><img  src="/wp-content/uploads/2016/12/json-ld-schema-generator-for-seo-200x200.jpg"  /></div>
 <div class="resource__info">
-<h2 class="h2 category-title"><a href="https://hallanalysis.com/json-ld-generator/?ref=curatedseotools.com" target="_blank class=">JSON-LD Schema Generator For SEO</a></h2>
+<h2 ><a href="https://hallanalysis.com/json-ld-generator/?ref=curatedseotools.com" target="_blank class=">JSON-LD Schema Generator For SEO</a></h2>
 One of the easiest ways to add Schema’s structured markup to a page is to use JSON-LD. With this tool you can quickly generate the correct JSON-LD for any page on your site.
 
 </div>
