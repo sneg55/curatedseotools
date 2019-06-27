@@ -10,7 +10,7 @@
 		$gutter: _size(gutter);
 
 		@include padding(5em, 0, (0, 0, 3em, 0));
-		background-color: _color(main-color);
+		background-color: #292984;
 		color: #fff;
 
 		> .inner {
@@ -26,7 +26,7 @@
 				@include vendor('justify-content', 'space-between');
 				width: 100%;
 				@include breakpoint(medium) {
-					@include vendor('flex-direction', 'column');		
+					@include vendor('flex-direction', 'column');
 				}
 				&-col-bottom {
 					.title {
@@ -70,7 +70,7 @@
 			.text-made {
 				min-height: 65px;
 				@include breakpoint(medium) {
-					min-height: auto;		
+					min-height: auto;
 				}
 			}
 
@@ -81,7 +81,7 @@
 					color: _color(green-color);
 				}
 			}
-			
+
 			p {
 				color: #fff;
 			}
@@ -94,7 +94,7 @@
 				font-size: 0.8em;
 				color: transparentize(_palette(fg), 0.5);
 
-				
+
 
 				li {
 					display: inline-block;
