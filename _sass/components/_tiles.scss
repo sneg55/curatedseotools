@@ -26,7 +26,7 @@
 		position: relative;
 		width: calc(#{(100% / 3)} - #{$gutter * 1});
 		margin: #{$gutter - 1} 0 0 #{$gutter - 1};
-		height: 150px;
+		max-height: 150px;
 
 		> .image {
 			@include vendor('transition', 'transform #{$duration} #{$ease}');
