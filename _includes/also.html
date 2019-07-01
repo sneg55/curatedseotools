@@ -1,0 +1,10 @@
+<h3>Next:</h3>
+<section class="tiles">
+{% for post in site.categories.products limit:site.front-page-posts %}
+	<article>
+		<section >
+	<a href="{{ post.url | prepend:site.baseurl | prepend:site.url }}" class="button special fit small">{{ post.title }}</a>
+</section>
+	</article>
+{% endfor %}
+</section>

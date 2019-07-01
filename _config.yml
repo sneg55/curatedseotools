@@ -1,1 +1,64 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: curatedseotools.com
+#email: youremailaddress@gmail.com
+description: Curated SEO Tools - Best SEO Tools Stash
+#baseurl: "https://curatedseotools.com" # the subpath of your site, e.g. /blog
+url: "https://curatedseotools.com" # the base hostname & protocol for your site
+
+# Logo settings
+logo-image-url: favicon.png
+#font-awesome-icon-logo: fas fa-dice-d20
+
+toc:
+  min_level: 1 # default: 1
+  max_level: 2 # default: 6
+
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: 'DeFi blog - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Build settings
+markdown: kramdown
+# Layout settings
+home-link-in-menu: no
+plugins:
+  - jekyll-random
+include: ['.htaccess']
+collections_dir: collections
+collections:
+  - guides-must-reads
+  - communities
+  - site-audit
+  - competitor-analysis
+  - crawlers
+  - on-page-seo-graders
+  - backlinks
+  - seo-reporting-tools
+  - rank-tracking
+  - keyword-research-tools
+  - page-speed
+  - official-webmaster-tools
+  - rich-snippets
+  - social-media-management-tools
+  - content-marketing
+  - web-analytics
+  - amp-instant-articles
+  - local-seo-tools
+  - outreach-tools
+  - ppc-tools
+  - serp-analysis-tools
+  - wordpress-seo-tools
+  - online-marketing-platforms
+  - pbn

@@ -1,0 +1,32 @@
+<head>
+    <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="referrer" content="origin">
+    <meta name="description" content="{{ page.metadescription | strip_html | strip_newlines | truncate: 160 }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css " | prepend: site.baseurl }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="{{ site.url }}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+    <meta property="og:image" content="{{ site.url }}/images/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+    <meta name="twitter:description" content="{{ page.metadescription | strip_html | strip_newlines | truncate: 160 }}">
+    <meta name="twitter:image" content="{{ site.url }}/images/og.png">
+    <meta name="google-site-verification" content="iEvSvYVfQCUpWMZZWRbKs9tq6yZgG5VBUlZ4sWvWQgo" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-89502083-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-89502083-1');
+    </script>
+
+
+</head>
