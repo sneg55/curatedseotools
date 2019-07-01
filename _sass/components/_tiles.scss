@@ -14,7 +14,9 @@
 	@include vendor('display', 'flex');
 	@include vendor('flex-wrap', 'wrap');
 	position: relative;
-	margin-left: -52px;
+	width: 898px;
+	margin-left: auto;
+	margin-right: auto;
 
 	article {
 		@include vendor('transition', (
@@ -23,7 +25,8 @@
 		));
 		position: relative;
 		width: calc(#{(100% / 3)} - #{$gutter * 1});
-		margin: $gutter 0 0 $gutter;
+		margin: #{$gutter - 1} 0 0 #{$gutter - 1};
+		max-height: 150px;
 
 		> .image {
 			@include vendor('transition', 'transform #{$duration} #{$ease}');
@@ -32,6 +35,7 @@
 			width: 100%;
 			border-radius: _size(border-radius);
 			overflow: hidden;
+			height: 100%;
 
 			img {
 				display: block;
@@ -79,8 +83,8 @@
 		> a {
 			@include vendor('display', 'flex');
 			@include vendor('flex-direction', 'column');
-			@include vendor('align-items', 'center');
-			@include vendor('justify-content', 'center');
+			@include vendor('align-items', 'start');
+			@include vendor('justify-content', 'end');
 			@include vendor('transition', (
 				'background-color #{$duration} #{$ease}',
 				'transform #{$duration} #{$ease}'
@@ -90,13 +94,14 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			padding: 1em;
+			padding: 2em;
 			border-radius: _size(border-radius);
 			border-bottom: 0;
 			color: _palette(fg-accent);
-			text-align: center;
+			text-align: left;
 			text-decoration: none;
 			z-index: 3;
+			font-size: 11px;
 
 			> :last-child {
 				margin: 0;
