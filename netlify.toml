@@ -1,0 +1,42 @@
+[[plugins]]
+package = "netlify-plugin-no-more-404"
+
+  # all inputs are optional, we just show you the defaults below
+  [plugins.inputs]
+
+  # either "warn" or "error"
+  on404 = "error"
+
+  # change this key to a new one any time you need to restart from scratch
+  cacheKey = "MyCacheKey"
+
+  # (for development) turn true for extra diagnostic logging
+  debugMode = false
+
+[[plugins]]
+package = "netlify-plugin-subfont"
+
+  [plugins.inputs]
+  # An array of glob patterns for pages on your site
+  # Recursive traversal will start from these
+  entryPoints = [
+    "*.html",
+  ]
+
+  # Follow your links across all pages to optimize the fonts across the antire site
+  recursive = true
+
+  # Subfont lets you set CSS font-display value of the optimized subsets
+  # See https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display
+  fontDisplay = "swap"
+
+  # Inline generated CSS @font-face blocks into each page
+  # When set to `false` an external CSS file will be created
+  inlineCss = false
+
+  # Inline generated font subsets into their respective @font-face blocks
+  # When set to `false` external font files will be created
+  inlineFonts = false
+
+[[plugins]]
+package = "netlify-plugin-hashfiles"  
