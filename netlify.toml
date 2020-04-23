@@ -13,8 +13,6 @@ package = "netlify-plugin-no-more-404"
   # (for development) turn true for extra diagnostic logging
   debugMode = false
 
-[[plugins]]
-package = "netlify-plugin-subfont"
 
 [[plugins]]
 package = "netlify-plugin-hashfiles"
